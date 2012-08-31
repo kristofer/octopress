@@ -8,4 +8,4 @@ footer: true
 
 # About Us.
 
-This is the about page for Schooner Networks.
+Kristofer Younger.

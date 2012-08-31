@@ -11,6 +11,11 @@ Know Thyself Guides - Vanderchef
 
 We're building a digital publishing system with a twist: it creates digital books so personalized that every single one is tailored to the reader. 
 
+Long Term Digital Asset Managment
+----------------------------------
+
+Computers are great at keeping track of our information for their their lifetimes, but quite miserable at keeping track of information for *our lifetimes*.
+
 Riplz
 -----
 
@@ -21,7 +26,3 @@ Family Social Cooking
 
 A idea based on getting more families cooking together, and supporting them through a variety of social means.
 
-Long Term Digital Asset Managment
-----------------------------------
-
-Computers are great at keeping track of our information for their their lifetimes, but quite miserable at keeping track of information for *our lifetimes*.
