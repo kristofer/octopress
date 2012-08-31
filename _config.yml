@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://www.schoonernetworks.com
+title: Schooner Networks
+subtitle: Piloting the Oceans of the Internet.
+author: Kristofer Younger
 simple_search: http://google.com/search
 description:
 
